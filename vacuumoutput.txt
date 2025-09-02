@@ -1,0 +1,41 @@
+
+===== Vacuum Bot Console =====
+1) Begin Cleaning Operation
+2) Turn Left
+3) Turn Right
+4) Dock Station
+5) Exit Program
+Choose from above (1-5): 1
+
+--- Cleaning Procedure Initiated ---
+1) Clean Solid Debris
+2) Clean Liquid Spills
+3) Return to Main Menu
+Select action (1-3): 1
+
+Select solid material:
+1) Dust
+2) Rocks or Papers
+3) Miscellaneous
+Input option (1-3): 2
+
+--- Cleaning Mode: Solid | Target: Rocks/Papers ---
+
+>> Optimal Design: Round
+-> Cells Cleared: 100
+-> Duration: 100 units
+
+>> Shape-wise Cleaning Duration:
+- Round: 100 units
+- Square: 200 units
+- Triangle: 300 units
+- Heptagon: 150.0 units
+
+
+===== Vacuum Bot Console =====
+1) Begin Cleaning Operation
+2) Turn Left
+3) Turn Right
+4) Dock Station
+5) Exit Program
+Choose from above (1-5): 
