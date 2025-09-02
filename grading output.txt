@@ -1,0 +1,21 @@
+=== Student Grading Tool ===
+Add subjects and their scores. Type 'done' to finish.
+
+Subject Name (or type 'done' to end): Mathematics
+Marks obtained in Mathematics: 95
+Mathematics: 95 marks → Grade: A
+
+Subject Name (or type 'done' to end): Science
+Marks obtained in Science: 83
+Science: 83 marks → Grade: B
+
+Subject Name (or type 'done' to end): History
+Marks obtained in History: 72
+History: 72 marks → Grade: C
+
+Subject Name (or type 'done' to end): done
+==== Overall Performance ====
+Total Marks Scored: 250
+Subjects Entered: 3
+Average Marks: 83.33
+Final Grade: B
